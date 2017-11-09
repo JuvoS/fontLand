@@ -68,3 +68,37 @@
 	font-family:heroLight;
 	src: url('../assets/fonts/Hero/Hero Light.otf');
 }
+
+/**
+ * cotton
+ * 棉花
+ */
+.font-Cotton {
+	font-family: font-cotton;
+}
+@font-face {
+	font-family:font-cotton;
+	src: url('../assets/fonts/Aa棉花糖.woff');
+}
+/**
+ * Nana
+ * 娜娜
+ */
+.font-Nana {
+	font-family: font-Nana;
+}
+@font-face {
+	font-family:font-Nana;
+	src: url('../assets/fonts/Aa娜娜体.woff');
+}
+
+/**
+ * 书体坊米芾体
+ */
+.font-ShutifangMifuti {
+	font-family: font-ShutifangMifuti;
+}
+@font-face {
+	font-family:font-ShutifangMifuti;
+	src: url('../assets/fonts/书体坊米芾体.woff');
+}
