@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+.walt-Disney {
+	font-family: 'waltDisney';
+}
+@font-face {
+	font-family:waltDisney;
+	src: url('../assets/fonts/WaltDisney/WaltDisney.ttf');
+}
+
+/**
+ * Zag
+ */
+.zag-Regular{
+	font-family: 'zagRegular';
+}
+@font-face {
+	font-family:zagRegular;
+	src: url('../assets/fonts/Zag/Zag Regular.otf');
+}
+.zag-Bold{
+	font-family: 'zagBold';
+}
+@font-face {
+	font-family:zagBold;
+	src: url('../assets/fonts/Zag/Zag Bold.otf');
+}
+.zag-ZnikomitNo24{
+	font-family: 'ZnikomitNo24';
+}
+@font-face {
+	font-family:ZnikomitNo24;
+	src: url('../assets/fonts/Zag/ZnikomitNo24.otf');
+}
+
+/**
+ * Dekar
+ */
+.dekar{
+	font-family: 'dekar';
+}
+@font-face {
+	font-family:dekar;
+	src: url('../assets/fonts/Dekar/Dekar.otf');
+}
+.dekar-Light{
+	font-family: 'dekarLight';
+}
+@font-face {
+	font-family:dekarLight;
+	src: url('../assets/fonts/Dekar/Dekar Light.otf');
+}
+
+/**
+ * Hero
+ */
+.hero {
+	font-family: hero;
+}
+@font-face {
+	font-family:hero;
+	src: url('../assets/fonts/Hero/Hero.otf');
+}
+.hero-Light {
+	font-family: heroLight;
+}
+@font-face {
+	font-family:heroLight;
+	src: url('../assets/fonts/Hero/Hero Light.otf');
+}
